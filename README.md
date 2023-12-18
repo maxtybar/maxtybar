@@ -18,11 +18,10 @@ I'm a software engineer and solutions developer with over 3 years of professiona
 
 ## 👨‍💻 Languages and Tools
   
-<div align="center"> 
+<div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxtybar&show_icons=true&locale=en&layout=compact" alt="maxtybar" max-width: 100%; /> 
-  
-  <br> 
-
+  </div>
+<div align="center"> 
   <img src="https://iili.io/JA9eW9s.png" alt="aws" height="55" width="55">
   <img src="https://iili.io/JA9WQvR.md.png" alt="c++" height="55" width="55">
   <img src="https://iili.io/JA9W6Eg.jpg" alt="aws-cdk" height="55" width="55">
