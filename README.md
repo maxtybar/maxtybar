@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" height="200" width="300">
+</div>
 <h1 align="center"> Hi, I'm Maksim (Max) Tybar </h1>
 <h3 align="center">I'm a Cloud Architect and Software Developer from Seattle, WA</h3>
   
@@ -9,40 +12,55 @@ I'm a software engineer and solutions developer with over 3 years of professiona
 - 🇺🇸  Former NCAA Division I Tennis Player at Oklahoma State University
 - 📇  Speak two languages (Russian and English)
 - 💻  Passionate about code automation, Generative AI and Infrastructure as Code (AWS CDK, CDKTF, CloudFormation)
+- ✍🏻 Write about interesting software and cloud concepts on my [Medium](https://medium.com/@maxtybar)
 
 <br>
 
 ## 👨‍💻 Languages and Tools
   
-<p align="left"> 
+<div align="center"> 
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxtybar&show_icons=true&locale=en&layout=compact" alt="maxtybar" /> 
 
   <br>
+
+  <img src="https://iili.io/JA9eW9s.png" alt="aws" height="55" width="55">
+  <img src="https://iili.io/JA9WQvR.md.png" alt="c++" height="55" width="55">
+  <img src="https://iili.io/JA9W6Eg.jpg" alt="aws-cdk" height="55" width="55">
+  <img src="https://iili.io/JA9Xfu2.md.png" alt="terraform" height="55" width="55">
+  <img src="https://iili.io/JA9Ws3J.md.png" alt="css-3" height="55" width="55">
+  <img src="https://iili.io/JA9WP4a.png" alt="docker" height="55" width="55">
+  <img src="https://iili.io/JA9WLYv.md.png" alt="git" height="55" width="55">
+  <img src="https://iili.io/JA9WZpp.png" alt="html" height="55" width="55">
   
-  <img src="https://iili.io/JA9WQvR.md.png" alt="JA9WQvR.md.png" height="60" width="60">
-  <img src="https://iili.io/JA9W6Eg.jpg" alt="JA9W6Eg.jpg" height="60" width="60">
-  <img src="https://iili.io/JA9Ws3J.md.png" alt="JA9Ws3J.md.png" height="60" width="60">
-  <img src="https://iili.io/JA9WP4a.png" alt="JA9WP4a.png" height="60" width="60">
-  <img src="https://iili.io/JA9WLYv.md.png" alt="JA9WLYv.md.png" height="60" width="60">
-  <img src="https://iili.io/JA9WZpp.png" alt="JA9WZpp.png" height="60" width="60">
-  <img src="https://iili.io/JA9WbjI.png" alt="JA9WbjI.png" height="60" width="60">
-  <img src="https://iili.io/JA9X9Gn.md.png" alt="JA9X9Gn.md.png" height="60" width="60">
-  <img src="https://iili.io/JA9WmQt.png" alt="JA9WmQt.png" height="60" width="60">
+
+  <br> 
+  <img src="https://iili.io/JA9WbjI.png" alt="javascript" height="55" width="55">
+  <img src="https://iili.io/JA9XqjS.md.png" alt="typescript" height="55" width="55">
+  <img src="https://iili.io/JA9X9Gn.md.png" alt="k8" height="55" width="55">
+  <img src="https://iili.io/JA9eoMB.png" alt="graphql" height="55" width="55">
   
-  </br>
   
-  <img src="https://iili.io/JA9XH4s.md.png" alt="JA9XH4s.md.png" height="60" width="60">
-  <img src="https://iili.io/JA9WyCX.md.png" alt="JA9WyCX.md.png" height="60" width="60">
-  <img src="https://iili.io/JA9Xd3G.md.png" alt="JA9Xd3G.md.png" height="60" width="60">
-  <img src="https://iili.io/JA9X2af.md.png" alt="JA9X2af.md.png" height="60" width="60">
-  <img src="https://iili.io/JA9X3v4.md.png" alt="JA9X3v4.md.png" height="60" width="60">
-  <img src="https://iili.io/JA9XFyl.md.png" alt="JA9XFyl.md.png" height="60" width="60">
-  <img src="https://iili.io/JA9Xfu2.md.png" alt="JA9Xfu2.md.png" height="60" width="60">
-  <img src="https://iili.io/JA9XqjS.md.png" alt="JA9XqjS.md.png" height="60" width="60">
-  <img src="https://iili.io/JA9XBZ7.md.png" alt="JA9XBZ7.md.png" height="60" width="60">
+  <img src="https://iili.io/JA9NUq7.png" alt="java" height="55" width="55">
+  <img src="https://iili.io/JA9X2af.md.png" alt="python" height="55" width="55">
+  
+  <img src="https://iili.io/JA9WmQt.png" alt="mysql" height="55" width="55">
+  <img src="https://iili.io/JA9XH4s.md.png" alt="postgresql" height="55" width="55">
+  <img src="https://iili.io/JA9WyCX.md.png" alt="postman" height="55" width="55">
+  
+  <br>
+  <img src="https://iili.io/JA9Xd3G.md.png" alt="pycharm" height="55" width="55">
+  <img src="https://iili.io/JA9X3v4.md.png" alt="react" height="55" width="55">
+  <img src="https://iili.io/JA9XFyl.md.png" alt="tensorflow" height="55" width="55">
+  <img src="https://iili.io/JA9N1xp.png" alt="jenkins" height="55" width="55">
+  <img src="https://iili.io/JA9XBZ7.md.png" alt="vscode" height="55" width="55">
+  <img src="https://iili.io/JA9vgZx.png" alt="codewhisperer" height="55" width="55">
+  <img src="https://iili.io/JA9vhCl.png" alt="copilot" height="55" width="55">
+  
+  
+  
 
 
 
-</p>
+</div>
 
