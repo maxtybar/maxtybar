@@ -4,7 +4,7 @@
 <h1 align="center"> Hi, I'm Maksim (Max) Tybar </h1>
 <h3 align="center">I'm a Cloud Architect and Software Developer from Seattle, WA</h3>
   
-I'm a software engineer and solutions developer with over 3 years of professional experience 💻. I am specializing in designing and building scalable backend applications using cloud hosting providers ☁️. I am an AWS Certified Machine Learning and an AWS Certified Solution Architect Professional 🧠. I possess strong technical software development skills through my work as a Java backend engineer as well as soft skills through communicating with C-suite executives and advising on building cloud-centric applications at Amazon Web Services (AWS) 👨🏻‍💻.
+I'm a software engineer and solutions developer with over 3 years of professional experience 💻. I am specializing in designing and building scalable backend applications ☁️. I am an AWS Certified Machine Learning and an AWS Certified Solution Architect Professional 🧠. I possess strong technical software development skills through my work as a Java backend engineer as well as soft skills through communicating with C-suite executives and advising on building cloud-centric applications at Amazon Web Services (AWS) 👨🏻‍💻.
 
 <br>
 
