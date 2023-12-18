@@ -19,10 +19,10 @@ I'm a software engineer and solutions developer with over 3 years of professiona
 ## 👨‍💻 Languages and Tools
   
 <div align="center"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxtybar&show_icons=true&locale=en&layout=compact" alt="maxtybar" /> 
-  <div>
-  <br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxtybar&show_icons=true&locale=en&layout=compact" alt="maxtybar" max-width: 100%; /> 
   
+  <br> 
+
   <img src="https://iili.io/JA9eW9s.png" alt="aws" height="55" width="55">
   <img src="https://iili.io/JA9WQvR.md.png" alt="c++" height="55" width="55">
   <img src="https://iili.io/JA9W6Eg.jpg" alt="aws-cdk" height="55" width="55">
@@ -33,6 +33,7 @@ I'm a software engineer and solutions developer with over 3 years of professiona
   <img src="https://iili.io/JA9WZpp.png" alt="html" height="55" width="55">
 
   <br> 
+  
   <img src="https://iili.io/JA9WbjI.png" alt="javascript" height="55" width="55">
   <img src="https://iili.io/JA9XqjS.md.png" alt="typescript" height="55" width="55">
   <img src="https://iili.io/JA9X9Gn.md.png" alt="k8" height="55" width="55">
@@ -52,6 +53,6 @@ I'm a software engineer and solutions developer with over 3 years of professiona
   <img src="https://iili.io/JA9XBZ7.md.png" alt="vscode" height="55" width="55">
   <img src="https://iili.io/JA9vgZx.png" alt="codewhisperer" height="55" width="55">
   <img src="https://iili.io/JA9vhCl.png" alt="copilot" height="55" width="55">
-  </div>
+  
 </div>
 
