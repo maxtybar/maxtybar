@@ -39,7 +39,7 @@ I'm a software engineer and solutions developer with over 3 years of professiona
   <br>
   
   <img src="https://iili.io/JA9X2af.md.png" alt="python" height="55" width="55">
-  <img src="https://iili.io/JA9NUq7.png" alt="java" height="55" width="55">
+  <img src="https://iili.io/JYOAdEG.png" alt="java" height="55" width="55">
   <img src="https://iili.io/JA9WmQt.png" alt="mysql" height="55" width="55">
   <img src="https://iili.io/JA9XH4s.md.png" alt="postgresql" height="55" width="55">
   <img src="https://iili.io/JA9WyCX.md.png" alt="postman" height="55" width="55">
