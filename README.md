@@ -12,7 +12,7 @@ I'm a software engineer and solutions developer with over 3 years of professiona
 - 🎾  Former NCAA Division I Tennis Player at Oklahoma State University
 - 📇  Speak two languages (Russian and English)
 - 💻  Passionate about code automation, Generative AI and Infrastructure as Code (AWS CDK, CDKTF, CloudFormation)
-- ✍🏻  Write about interesting software and cloud concepts on [Medium](https://medium.com/@maxtybar)
+- ✍🏻  Write about interesting software and cloud concepts on [Medium](https://medium.com/@maxtybar) and [AWS Community](https://community.aws/@maxtybar)
 
 <br>
 
