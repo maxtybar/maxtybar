@@ -4,7 +4,7 @@
 <h1 align="center"> Hi, I'm Maksim (Max) Tybar </h1>
 <h3 align="center">I'm a Cloud Architect and Software Developer from Seattle, WA ☕</h3>
 
-I'm a software engineer and solutions developer with over 3 years of professional experience 💻. I am specializing in designing and building scalable backend applications ☁️. I am [AWS Machine Learning Specialty Certified](https://www.credly.com/earner/earned/badge/8225dc00-c248-4082-a589-3447048db7b7) and [AWS Certified Solutions Architect Professional](https://www.credly.com/earner/earned/badge/b9effd79-11c2-47bd-a56c-12d06a92a053) 🧠. I possess strong technical software development skills through my work as a Java backend engineer at [Perficient](https://www.perficient.com/) as well as soft skills through communicating with C-suite executives and advising on building cloud-centric applications at [Amazon Web Services (AWS)](https://aws.amazon.com/) 👨🏻‍💻.
+Technical enthusiast with 3+ years of professional experience in solutions/cloud architecture and software development positions 💻. I am specializing in designing and building scalable backend applications ☁️. I am [AWS Machine Learning Specialty Certified](https://www.credly.com/earner/earned/badge/8225dc00-c248-4082-a589-3447048db7b7) and [AWS Certified Solutions Architect Professional](https://www.credly.com/earner/earned/badge/b9effd79-11c2-47bd-a56c-12d06a92a053) 🧠. I possess strong technical software development skills through my work as a Java backend engineer at [Perficient](https://www.perficient.com/) as well as soft skills through communicating with C-suite executives and advising on building cloud-centric applications at [Amazon Web Services (AWS)](https://aws.amazon.com/) 👨🏻‍💻.
 
 <br>
 
