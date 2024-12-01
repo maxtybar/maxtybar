@@ -8,10 +8,10 @@ Technical enthusiast with 3+ years of professional experience in solutions/cloud
 
 <br>
 
-- 🔭  Currently working at Amazon Web Services as a Solutions Architect
+- 🔭  Currently working at Amazon Web Services as a Prototyping Solutions Architect
 - 🎾  Former NCAA Division I Tennis Player at Oklahoma State University
 - 📇  Speak two languages (Russian and English)
-- 💻  Passionate about code automation, Generative AI and Infrastructure as Code (AWS CDK, CDKTF, CloudFormation)
+- 💻  Passionate about code automation, Generative AI, and Infrastructure as Code (AWS CDK, CDKTF, CloudFormation)
 - ✍🏻  Write about interesting software and cloud concepts on [Medium](https://medium.com/@maxtybar) and [AWS Community](https://community.aws/@maxtybar)
 
 <br>
