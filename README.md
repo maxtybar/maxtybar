@@ -4,15 +4,16 @@
 <h1 align="center"> Hi, I'm Maksim (Max) Tybar </h1>
 <h3 align="center">I'm a Prototyping Solutions Architect and Software Developer from Arlington, VA ☕</h3>
 
-Technical enthusiast with 4+ years of professional experience in solutions/cloud architecture and software development positions 💻. I am specializing in designing and building scalable backend applications ☁️. I am [AWS Machine Learning Specialty Certified](https://www.credly.com/badges/8225dc00-c248-4082-a589-3447048db7b7), [AWS Certified DevOps Engineer Professional](https://www.credly.com/badges/a715b8bf-734e-40dd-a1ce-0083cf138d15), and [AWS Certified Solutions Architect Professional](https://www.credly.com/badges/b9effd79-11c2-47bd-a56c-12d06a92a053) 🧠. I possess strong technical software development skills through my work as a Java backend engineer at [Perficient](https://www.perficient.com/) as well as soft skills through communicating with C-suite executives and advising on building cloud-centric applications at [Amazon Web Services (AWS)](https://aws.amazon.com/) 👨🏻‍💻.
+Technical enthusiast with 4+ years of professional experience in solutions/cloud architecture and software development positions 💻. I specialize in designing and building scalable backend applications and Data & Analytics pipelines for AI/ML workloads ☁️. I am [AWS Machine Learning Specialty Certified](https://www.credly.com/badges/8225dc00-c248-4082-a589-3447048db7b7), [AWS Certified DevOps Engineer Professional](https://www.credly.com/badges/a715b8bf-734e-40dd-a1ce-0083cf138d15), and [AWS Certified Solutions Architect Professional](https://www.credly.com/badges/b9effd79-11c2-47bd-a56c-12d06a92a053) 🧠. I possess strong technical software development skills through my work as a Java backend engineer at [Perficient](https://www.perficient.com/) as well as soft skills through communicating with C-suite executives and advising on building cloud-centric applications at [Amazon Web Services (AWS)](https://aws.amazon.com/) 👨🏻‍💻.
 
 <br>
 
 - 🔭  Currently working at Amazon Web Services as a Prototyping Solutions Architect
+- 📚  Master's in Computer Science student at the Georgia Institute of Technology, focusing on AI/ML & HPC workloads
 - 🎾  Former NCAA Division I Tennis Player at Oklahoma State University
 - 📇  Speak two languages (Russian and English)
 - 💻  Passionate about code automation, Generative AI, and Infrastructure as Code (AWS CDK, CDKTF, CloudFormation)
-- ✍🏻  Write about interesting software and cloud concepts on [Medium](https://medium.com/@maxtybar) and [AWS Community](https://community.aws/@maxtybar)
+- ✍🏻  Write about interesting software and cloud concepts on [Medium](https://medium.com/@maxtybar)
 
 <br>
 
