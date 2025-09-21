@@ -9,7 +9,7 @@ Technical enthusiast with 5+ years of professional experience in solutions/cloud
 <br>
 
 - 🔭  Currently working at Amazon Web Services as a Prototyping Solutions Architect
-- 📚  Master's in Computer Science student at the Georgia Institute of Technology, focusing on AI/ML & HPC workloads
+- 📚  Bachelor and Masters Graduate in Computer & Information Studies/Science with focus on AI/ML, Distributed Systems and HPC workloads
 - 🎾  Former NCAA Division I Tennis Player at Oklahoma State University
 - 📇  Speak two languages (Russian and English)
 - 💻  Passionate about code automation, Generative AI, and Infrastructure as Code (AWS CDK, CDKTF, CloudFormation)
